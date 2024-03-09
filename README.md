@@ -1,1 +1,1 @@
-https://github.com/Rish251607/KFC/actions/runs/8213306673
+https://rish251607.github.io/KFC/
